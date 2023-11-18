@@ -1,0 +1,38 @@
+* {
+     margin: 0;
+     padding: 0;
+     text-decoration: none;
+}
+
+body {
+     background-image: url("images/bg.jpg");
+     background-size: cover;
+}
+
+.containter {
+     margin-top: 100px;
+     text-align: center;
+}
+
+input {
+     font-family: monospace;
+     padding: 10px 10px;
+     border-radius: 10px;
+     border: 2px solid rgb(255, 157, 247);
+     box-shadow: 5px 5px 10px rgb(255, 98, 234);
+}
+
+.btn {
+     width: 75%;
+     float: right;
+     margin-top: 20px;
+}
+
+button {
+     font-family: monospace;
+     padding: 10px 10px;
+     border-radius: 10px;
+     border: 2px solid rgb(255, 157, 247);
+     box-shadow: 5px 5px 10px rgb(255, 98, 234);
+     background-color: #ebebeb;
+}

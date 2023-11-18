@@ -1,0 +1,41 @@
+* {
+     margin: 0;
+     padding: 0;
+}
+
+body {
+     background-image: url("../images/bg.jpg");
+     background-size: cover;
+     background-attachment: fixed;
+}
+
+.header {
+     background-color: #33333338;
+     text-align: center;
+     font-family: arial;
+     color: white;
+}
+
+h1 {
+     padding: 5px 0px;
+}
+
+h3 {
+     padding: 10px 0px;
+}
+
+.msg {
+     width: 80%;
+     margin: auto;
+     margin-top: 30px;
+     text-align: center;
+     padding: 10px 10px;
+     background-color: rgba(255, 255, 255, 0.452);
+     border: 3px solid pink;
+     border-radius: 10px;
+}
+
+p {
+     font-family: monospace;
+     color: black;
+}
