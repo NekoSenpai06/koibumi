@@ -9,3 +9,7 @@ function letter2() {
 function letter3() {
      location.href = "letters/003.html";
 }
+
+function letter4() {
+     location.href = "letters/004.html";
+}
