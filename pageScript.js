@@ -17,3 +17,11 @@ function letter4() {
 function letter5() {
      location.href = "letters/005.html";
 }
+
+function letter6() {
+     location.href = "letters/006.html";
+}
+
+function letter7() {
+     location.href = "letters/007.html";
+}
