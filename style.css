@@ -34,5 +34,14 @@ button {
      border-radius: 10px;
      border: 2px solid rgb(255, 157, 247);
      box-shadow: 5px 5px 10px rgb(255, 98, 234);
-     background-color: #ebebeb;
+     background-color: white;
+}
+
+#indicator {
+     background-color: white;
+     display: inline;
+     margin-left: 25px;
+     padding:7px 30px;
+     border-radius: 10px;
+     border: 2px solid rgb(255, 157, 247);
 }
