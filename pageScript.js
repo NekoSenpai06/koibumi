@@ -57,3 +57,7 @@ function letter14() {
 function letter15() {
      location.href = "letters/015.html";
 }
+
+function letter16() {
+     location.href = "letters/016.html";
+}
