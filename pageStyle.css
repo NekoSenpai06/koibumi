@@ -22,8 +22,7 @@ button {
      margin-right: 5px;
      margin-left: 5px;
      border: 3px solid pink;
-     border-radius: 7px;
-     color: #ff8b9e;
-     background-color: rgba(255, 255, 255, 0.733);
-     box-shadow: 5px 5px 10px rgb(228, 77, 102);
+     border-radius: 3px;
+     color: black;
+     background-color: rgba(255, 255, 255, 0.26);
 }
