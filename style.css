@@ -14,34 +14,41 @@ body {
      text-align: center;
 }
 
+p {
+     width: 68%;
+     padding: 7px 0px;
+     float: left;
+     font-family: arial;
+}
+
 input {
-     font-family: monospace;
+     background-color: rgba(255, 255, 255, 0.363);
+     font-family: arial;
      padding: 10px 10px;
-     border-radius: 10px;
-     border: 2px solid rgb(255, 157, 247);
-     box-shadow: 5px 5px 10px rgb(255, 98, 234);
+     border-radius: 5px;
+     border: 2px solid rgb(255, 185, 249);
 }
 
 .btn {
-     width: 75%;
+     width: 77%;
      float: right;
      margin-top: 20px;
 }
 
 button {
-     font-family: monospace;
-     padding: 10px 10px;
-     border-radius: 10px;
-     border: 2px solid rgb(255, 157, 247);
-     box-shadow: 5px 5px 10px rgb(255, 98, 234);
-     background-color: white;
+     background-color: rgba(255, 255, 255, 0.363);
+     font-family: arial;
+     padding: 10px 20px;
+     border-radius: 5px;
+     border: 2px solid rgb(255, 185, 249);
 }
 
 #indicator {
-     background-color: white;
      display: inline;
      margin-left: 25px;
      padding:7px 30px;
-     border-radius: 10px;
-     border: 2px solid rgb(255, 157, 247);
+     border: 2px solid rgb(255, 185, 249);
+     border-top: transparent;
+     border-right: transparent;
+     border-left: transparent;
 }
