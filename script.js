@@ -6,11 +6,7 @@ function paswrd() {
           indicator.innerHTML = "✔";
           location.href = "page.html";
      }
-
-     else if(password.value === "us0607") {
-         alert("You entered an old password");
-     }
-
+          
      else {
           indicator.innerHTML = "✘";
      }
