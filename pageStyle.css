@@ -21,8 +21,9 @@ button {
      margin-bottom: 10px;
      margin-right: 5px;
      margin-left: 5px;
-     border: 3px solid pink;
+     border: 3px solid whitesmoke;
      border-radius: 3px;
      color: black;
-     background-color: rgba(255, 255, 255, 0.26);
+     font-weight: bold;
+     background-color: rgb(255, 255, 255, 0.300);
 }

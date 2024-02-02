@@ -15,6 +15,7 @@ body {
 }
 
 p {
+     color: white;
      width: 68%;
      padding: 7px 0px;
      float: left;
@@ -26,30 +27,30 @@ input {
      font-family: arial;
      padding: 10px 10px;
      border-radius: 5px;
-     border: 2px solid rgb(255, 185, 249);
+     border: 2px solid white;
 }
 
 .btn {
-     width: 77%;
+     width: 74%;
      float: right;
      margin-top: 20px;
 }
 
 button {
-     background-color: rgb(255, 185, 249);
+     background-color: white;
      color: black;
      font-weight: bold;
      font-family: arial;
      padding: 10px 20px;
      border-radius: 5px;
-     border: 2px solid rgb(255, 185, 249);
+     border: 2px solid whitesmoke;
 }
 
 #indicator {
      display: inline;
      margin-left: 25px;
      padding:7px 30px;
-     border: 2px solid rgb(255, 185, 249);
+     border: 2px solid white;
      border-top: transparent;
      border-right: transparent;
      border-left: transparent;

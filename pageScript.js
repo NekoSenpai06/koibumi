@@ -71,9 +71,21 @@ function letter18() {
 }
 
 function letter19() {
-     location.href = "letters/019.html";
+     location.href = "letters/019.html";    
 }
 
 function letter20() {
      location.href = "letters/020.html";
+}
+
+function letter21() {
+     location.href = "letters/021.html"
+}
+
+function letter22() {
+     location.href = "letters/022.html"
+}
+
+function letter23() {
+     location.href = "letters/023.html"
 }
