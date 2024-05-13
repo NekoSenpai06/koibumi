@@ -105,3 +105,55 @@ function letter26() {
 function letter27() {
      location.href = "letters/027.html";
 }
+
+function letter28() {
+     location.href = "letters/028.html";
+}
+
+function letter29() {
+     location.href = "letters/029.html";
+}
+
+function letter30() {
+     location.href = "letters/030.html";
+}
+
+function letter31() {
+     location.href = "letters/031.html";
+}
+
+function letter32() {
+     location.href = "letters/032.html";
+}
+
+function letter33() {
+     location.href = "letters/033.html";
+}
+
+function letter34() {
+     location.href = "letters/034.html";
+}
+
+function letter35() {
+     location.href = "letters/035.html";
+}
+
+function letter36() {
+     location.href = "letters/036.html";
+}
+
+function letter37() {
+     location.href = "letters/037.html";
+}
+
+function letter38() {
+     location.href = "letters/038.html";
+}
+
+function letter39() {
+     location.href = "letters/039.html";
+}
+
+function letter40() {
+     location.href = "letters/040.html";
+}
